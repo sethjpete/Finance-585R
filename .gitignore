@@ -1,0 +1,8 @@
+*.csv
+*.pdf
+*.docx
+*.pptx
+*.ftr
+*.txt
+!02-mstk_analysts.csv
+!03-mstk_short_02-12.csv
