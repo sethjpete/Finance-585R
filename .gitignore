@@ -4,5 +4,6 @@
 *.pptx
 *.ftr
 *.txt
+/Project
 !02-mstk_analysts.csv
 !03-mstk_short_02-12.csv
